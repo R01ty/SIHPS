@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:17.05.2024
-## Register Number:212221043006
-## Name:Rahul.K
+## Register Number:212221043005
+## Name:Ragul.E
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
